@@ -1,2 +1,2 @@
-# Recriando-a-p-gina-inicial-do-Instagram
+# Recriando-página-inicial-do-Instagram
 Projeto para recriar a página  inicial do Instagram - DIO 
